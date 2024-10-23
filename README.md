@@ -1,3 +1,3 @@
 ```
-curl -fsSL https://martinbarnes.dev/setup | bash
+wget -qO- https://martinbarnes.dev/setup | bash
 ```
